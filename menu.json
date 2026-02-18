@@ -11,7 +11,7 @@
          "icon": "movie",
          "label": "Llista Cat 19",
          "extensionLabel": "Streaming",
-         "data": "http://msx.benzac.de/services/m3u.php?type=video&url=https://xarxa-1.github.io/Xarxa-1/cat19.m3u"
+         "data": "https://xarxa-1.github.io/Xarxa-1/cat19.m3u"
       },
       {
          "icon": "movie",
@@ -27,3 +27,4 @@
       }
    ]
 }
+
