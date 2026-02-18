@@ -2,7 +2,7 @@
 {    
     "name": "Xarxa1901",
     "version": "2.3",
-    "parameter": "menu: https://xarxa1901.github.io/msx/menu_ms.json",
+    "parameter": "menu: https://xarxa1901.github.io/msx/menu.json",
     "launcher": {
       "image": "https://raw.githubusercontent.com/xarxa1901/msx/main/img/wals.png"
    }   
