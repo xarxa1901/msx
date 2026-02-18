@@ -1,29 +1,9 @@
-{
-   "headline": "Els Meus Streams",
-   "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
- 
-   "menu": [
-      {
-         "type": "separator",
-         "label": "Llistes de Streaming"
-      },
-      {
-         "icon": "movie",
-         "label": "Llista Cat 19",
-         "extensionLabel": "Streaming",
-         "data": "http://msx.benzac.de/services/m3u.php?type=video&url=https://xarxa-1.github.io/Xarxa-1/cat19.m3u"
-      },
-      {
-         "icon": "movie",
-         "label": "Llista Dubai",
-         "extensionLabel": "Streaming",
-         "data": "http://msx.benzac.de/services/m3u.php?type=video&url=https://xarxa-1.github.io/Xarxa-1/Dubai.m3u"
-      },
-      {
-         "icon": "movie",
-         "label": "Llista Cat 32a",
-         "extensionLabel": "Streaming",
-         "data": "http://msx.benzac.de/services/m3u.php?type=video&url=https://xarxa-1.github.io/Xarxa-1/cat32a.m3u"
-      }
-   ]
+
+{    
+    "name": "Xarxa1901",
+    "version": "2.3",
+    "parameter": "menu: https://xarxa1901.github.io/msx/menu_ms.json",
+    "launcher": {
+      "image": "https://raw.githubusercontent.com/xarxa1901/msx/main/img/wals.png"
+   }   
 }
