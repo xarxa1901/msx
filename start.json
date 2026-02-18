@@ -1,9 +1,9 @@
 {    
-    "name": "WALS_MSX",
+    "name": "XARXA1901",
     "version": "2.3",
     "dictionary": "https://wals09.github.io/msx/dictionary.json",
     "parameter": "menu: https://xarxa1901.github.io/msx/menu.json",
     "launcher": {
-      "image": "https://raw.githubusercontent.com/wals09/msx/main/img/wals.png"
+      "image": "https://t4.ftcdn.net/jpg/03/42/91/83/360_F_342918355_DxIQtaCbL3aYtYyFO0GLoltFbuqlft1i.jpg"
    }   
 }
