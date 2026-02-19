@@ -9,10 +9,10 @@
       },
       {
          "icon": "movie",
-         "label": "Llista Cat",
+         "label": "TAC12",
          "extensionLabel": "Streaming",
-         "type": "playlist",
-         "data": "http://msx.benzac.de/services/m3u.php?type=video&url=https://xarxa-1.github.io/Xarxa-1/cat19.m3u"
+         "type": "video",
+         "data": "http://msx.benzac.de/services/m3u.php?type=video&url=https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8"
       },
       {
          "icon": "movie",
@@ -35,6 +35,7 @@
       }
    ]
 }
+
 
 
 
