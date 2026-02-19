@@ -16,6 +16,13 @@
       },
       {
          "icon": "movie",
+         "label": "Cat",
+         "extensionLabel": "Streaming",
+         "type": "playlist",
+         "data": "http://msx.benzac.de/services/m3u.php?type=playlisto&url=https://xarxa-1.github.io/Xarxa-1/cat19.m3u"
+      },
+      {
+         "icon": "movie",
          "label": "Llista Dubai",
          "extensionLabel": "Streaming",
          "data": "http://msx.benzac.de/services/m3u.php?type=video&url=https://xarxa-1.github.io/Xarxa-1/Dubai.m3u"
@@ -28,6 +35,7 @@
       }
    ]
 }
+
 
 
 
