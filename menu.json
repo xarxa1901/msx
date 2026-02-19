@@ -9,8 +9,9 @@
       },
       {
          "icon": "movie",
-         "label": "Llista Cat 19",
+         "label": "Llista Cat19",
          "extensionLabel": "Streaming",
+         "type": "playlist",
          "data": "https://xarxa-1.github.io/Xarxa-1/cat19.m3u"
       },
       {
@@ -27,4 +28,5 @@
       }
    ]
 }
+
 
