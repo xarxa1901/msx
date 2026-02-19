@@ -1,18 +1,17 @@
 {
    "headline": "Els Meus Streams",
    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
- 
    "menu": [
       {
          "type": "separator",
          "label": "Llistes de Streaming"
       },
       {
-         "icon": "movie",
-         "label": "TAC12",
-         "extensionLabel": "Streaming",
-         "type": "video",
-         "data": "http://msx.benzac.de/services/m3u.php?type=video&url=https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8"
+         "icon": "menu",
+         "label": "Menu",
+         "extensionLabel": "menu",
+         "type": "link",
+         "data": "https://xarxa1901.github.io/msx/tv3.msx.json"
       },
       {
          "icon": "movie",
@@ -35,8 +34,3 @@
       }
    ]
 }
-
-
-
-
-
