@@ -84,382 +84,54 @@
          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/TV3.svg/300px-TV3.svg.png",
          "action": "video: https://directes3-tv-cat.3catdirectes.cat/live-content/tv3-hls/master.m3u8"
       },
-            {
-         "id": "channel_4",
-         "channel": "396",
-         "titleHeader": "{col:msx-white}3CAT INFO",
-         "playerLabel": "3CAT INFO",
-         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/512px-3CatInfo_logo.svg.png",
-         "action": "video: https://directes-tv-cat.3catdirectes.cat/live-content/canal324-hls/master.m3u8"
-      },
-      {
-         "id": "channel_5",
-         "channel": "397",
-         "titleHeader": "{col:msx-white}Esport3",
-         "playerLabel": "Esport3",
-         "image": "https://graph.facebook.com/Esport3/picture?width=200&height=200",
-         "action": "video: https://directes-tv-cat.3catdirectes.cat/live-content/esport3-hls/master.m3u8"
-      },
-      {
-         "id": "channel_6",
-         "channel": "398",
-         "titleHeader": "{col:msx-white}TAC12",
-         "playerLabel": "TAC12",
-         "image": "https://pbs.twimg.com/profile_images/1326929087919689729/S1zkeUh3_400x400.jpg",
-         "action": "video: https://ingest1-video.streaming-pro.com/tac12_ABR/stream/playlist.m3u8"
-      },
-      {
-         "id": "channel_7",
-         "channel": "399",
-         "titleHeader": "{col:msx-white}TV3CAT",
-         "playerLabel": "TV3CAT",
-         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/512px-TV3CAT.svg.png",
-         "action": "video: https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8"
-      },
-      {
-         "id": "channel_8",
-         "channel": "400",
-         "titleHeader": "{col:msx-white}Canal33",
-         "playerLabel": "Canal33",
-         "image": "https://graph.facebook.com/Canal33/picture?width=200&height=200",
-         "action": "video: https://directes-tv-cat.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8"
-      },
-      {
-         "id": "channel_9",
-         "channel": "401",
-         "titleHeader": "{col:msx-white}SX3",
-         "playerLabel": "SX3",
-         "image": "https://graph.facebook.com/SomSX3/picture?width=200&height=200",
-         "action": "video: https://directes-tv-cat.3catdirectes.cat/live-content/super3-hls/master.m3u8"
-      },
-      {
-         "id": "channel_10",
-         "channel": "402",
-         "titleHeader": "{col:msx-white}BonDiaTV",
-         "playerLabel": "BonDiaTV",
-         "image": "https://i.imgur.com/XaiP3nJ.png",
-         "action": "video: https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8"
-      },
-      {
-         "id": "channel_11",
-         "channel": "403",
-         "titleHeader": "{col:msx-white}La1",
-         "playerLabel": "La1",
-         "image": "https://i.imgur.com/1jDS9UC.png",
-         "action": "video: https://ztnr.rtve.es/ztnr/1688877.m3u8"
-      },
-      {
-         "id": "channel_12",
-         "channel": "404",
-         "titleHeader": "{col:msx-white}La1 Cat",
-         "playerLabel": "La1 Cat",
-         "image": "https://i.imgur.com/1jDS9UC.png",
-         "action": "video: https://ztnr.rtve.es/ztnr/3293681.m3u8"
-      },
-      {
-         "id": "channel_13",
-         "channel": "405",
-         "titleHeader": "{col:msx-white}Rtve",
-         "playerLabel": "Rtve",
-         "image": "https://i.imgur.com/1jDS9UC.png",
-         "action": "video: http://167.250.223.26:8085/play/a05r/index.m3u"
-      },
-      {
-         "id": "channel_14",
-         "channel": "406",
-         "titleHeader": "{col:msx-white}La2 Cat",
-         "playerLabel": "La2 Cat",
-         "image": "https://i.imgur.com/3NwzqoB.png",
-         "action": "video: https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main.m3u8"
-      },
-      {
-         "id": "channel_15",
-         "channel": "407",
-         "titleHeader": "{col:msx-white}24HCat",
-         "playerLabel": "24HCat",
-         "image": "https://i.imgur.com/IUVRm5L.png",
-         "action": "video: https://ztnr.rtve.es/ztnr/1694255.m3u8"
-      },
-      {
-         "id": "channel_16",
-         "channel": "408",
-         "titleHeader": "{col:msx-white}Teledeporte GEO",
-         "playerLabel": "Teledeporte GEO",
-         "image": "https://graph.facebook.com/teledeporteRTVE/picture?width=200&height=200",
-         "action": "video: https://ztnr.rtve.es/ztnr/1712295.m3u8"
-      },
-      {
-         "id": "channel_17",
-         "channel": "409",
-         "titleHeader": "{col:msx-white}SkyNews",
-         "playerLabel": "SkyNews",
-         "image": "https://graph.facebook.com/skynews/picture?width=200&height=200",
-         "action": "video: https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8"
-      },
-      {
-         "id": "channel_18",
-         "channel": "410",
-         "titleHeader": "{col:msx-white}US: CNN",
-         "playerLabel": "US: CNN",
-         "image": "",
-         "action": "video: https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
-      },
-      {
-         "id": "channel_19",
-         "channel": "411",
-         "titleHeader": "{col:msx-white}BBC.News",
-         "playerLabel": "BBC.News",
-         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/100px-BBC_News_2019.svg.png",
-         "action": "video: https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
-      },
-      {
-         "id": "channel_20",
-         "channel": "412",
-         "titleHeader": "{col:msx-white}BBC World",
-         "playerLabel": "BBC World",
-         "image": "",
-         "action": "video: https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS/bbcworld.m3u8"
-      },
-      {
-         "id": "channel_21",
-         "channel": "413",
-         "titleHeader": "{col:msx-white}BBC One",
-         "playerLabel": "BBC One",
-         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/langca-330px-BBC_One_logo_2021.svg.png",
-         "action": "video: https://streamer.nexyl.uk/5c858268-a93b-45f8-9e82-41d66b526d6c_output_0.m3u8?session=9buRUmvSPEr7QipAuuSUf7"
-      },
-      {
-         "id": "channel_22",
-         "channel": "414",
-         "titleHeader": "{col:msx-white}BBC Two HD (720p)",
-         "playerLabel": "BBC Two HD (720p)",
-         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
-         "action": "video: https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8"
-      },
-      {
-         "id": "channel_23",
-         "channel": "415",
-         "titleHeader": "{col:msx-white}BBC Three HD",
-         "playerLabel": "BBC Three HD",
-         "image": "https://images.seeklogo.com/logo-png/46/1/bbc-three-logo-png_seeklogo-467190.png",
-         "action": "video: https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8"
-      },
-      {
-         "id": "channel_24",
-         "channel": "416",
-         "titleHeader": "{col:msx-white}BBC Four UK HD",
-         "playerLabel": "BBC Four UK HD",
-         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",
-         "action": "video: https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8"
-      },
-      {
-         "id": "channel_25",
-         "channel": "417",
-         "titleHeader": "{col:msx-white}CBBC",
-         "playerLabel": "CBBC",
-         "image": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/cbbc_3.png",
-         "action": "video: https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8"
-      },
-      {
-         "id": "channel_26",
-         "channel": "418",
-         "titleHeader": "{col:msx-white}BBC Impossible",
-         "playerLabel": "BBC Impossible",
-         "image": "",
-         "action": "video: https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8"
-      },
-      {
-         "id": "channel_27",
-         "channel": "419",
-         "titleHeader": "{col:msx-white}itv2",
-         "playerLabel": "itv2",
-         "image": "https://images.seeklogo.com/logo-png/21/1/itv2-logo-png_seeklogo-216927.png",
-         "action": "video: https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS/itv2.m3u8"
-      },
-      {
-         "id": "channel_28",
-         "channel": "420",
-         "titleHeader": "{col:msx-white}itv3",
-         "playerLabel": "itv3",
-         "image": "https://images.seeklogo.com/logo-png/24/1/itv3-logo-png_seeklogo-242281.png",
-         "action": "video: https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS/itv3.m3u8"
-      },
-      {
-         "id": "channel_29",
-         "channel": "421",
-         "titleHeader": "{col:msx-white}itv4",
-         "playerLabel": "itv4",
-         "image": "https://images.seeklogo.com/logo-png/45/1/itv4-logo-png_seeklogo-458199.png",
-         "action": "video: https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS/itv4.m3u8"
-      },
-      {
-         "id": "channel_30",
-         "channel": "422",
-         "titleHeader": "{col:msx-white}GB News",
-         "playerLabel": "GB News",
-         "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",
-         "action": "video: https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
-      },
-      {
-         "id": "channel_31",
-         "channel": "423",
-         "titleHeader": "{col:msx-white}WTVD TV News.",
-         "playerLabel": "WTVD TV News.",
-         "image": "https://static-m.meteo.cat/assets-w3/images/smp/trama-smp-0.png",
-         "action": "video: https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/wtvd_24x7_news.m3u8"
-      },
-      {
-         "id": "channel_32",
-         "channel": "424",
-         "titleHeader": "{col:msx-white}Channel 4",
-         "playerLabel": "Channel 4",
-         "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Channel_4_Logo_2023.svg/250px-Channel_4_Logo_2023.svg.png",
-         "action": "video: https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS/channel4.m3u8"
-      },
-      {
-         "id": "channel_33",
-         "channel": "425",
-         "titleHeader": "{col:msx-white}Bluezoomfr",
-         "playerLabel": "Bluezoomfr",
-         "image": "",
-         "action": "video: https://viamotionhsi.netplus.ch/live/eds/bluezoomfr/browser-HLS/bluezoomfr.m3u8"
-      },
-      {
-         "id": "channel_34",
-         "channel": "426",
-         "titleHeader": "{col:msx-white}M6 FR",
-         "playerLabel": "M6 FR",
-         "image": "https://images.seeklogo.com/logo-png/8/2/m6-tv-logo-png_seeklogo-86691.png",
-         "action": "video: https://viamotionhsi.netplus.ch/live/eds/m6hd/browser-HLS8/m6hd.m3u8bb"
-      },
-      {
-         "id": "channel_35",
-         "channel": "427",
-         "titleHeader": "{col:msx-white}Bunquer",
-         "playerLabel": "Bunquer",
-         "image": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
-         "action": "video: https://fast-tailor.3catdirectes.cat/v1/channel/bunquer/hls.m3u8"
-      },
-      {
-         "id": "channel_36",
-         "channel": "428",
-         "titleHeader": "{col:msx-white}CÃ mares",
-         "playerLabel": "CÃ mares",
-         "image": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
-         "action": "video: https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/bitrate_3.m3u8"
-      },
-      {
-         "id": "channel_37",
-         "channel": "429",
-         "titleHeader": "{col:msx-white}3CATe1",
-         "playerLabel": "3CATe1",
-         "image": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
-         "action": "video: https://directes-tv-cat.3catdirectes.cat/live-origin/oca1-hls/master.m3u8"
-      },
-      {
-         "id": "channel_38",
-         "channel": "430",
-         "titleHeader": "{col:msx-white}3CATe2",
-         "playerLabel": "3CATe2",
-         "image": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
-         "action": "video: https://directes-tv-cat.3catdirectes.cat/live-origin/oca2-hls/master.m3u8"
-      },
-      {
-         "id": "channel_39",
-         "channel": "431",
-         "titleHeader": "{col:msx-white}3CATe3",
-         "playerLabel": "3CATe3",
-         "image": "https://graph.facebook.com/som3Cat/picture?width=200&height=200",
-         "action": "video: https://directes-tv-cat.3catdirectes.cat/live-origin/oca3-hls/master.m3u8"
-      },
-      {
-         "id": "channel_40",
-         "channel": "432",
-         "titleHeader": "{col:msx-white}CanalReus",
-         "playerLabel": "CanalReus",
-         "image": "https://pbs.twimg.com/profile_images/1899040884026392577/MK3u4IhA_x96.jpg",
-         "action": "video: https://ingest2-video.streaming-pro.com/creus/stream/playlist.m3u8"
-      },
-      {
-         "id": "channel_41",
-         "channel": "433",
-         "titleHeader": "{col:msx-white}TVReus",
-         "playerLabel": "TVReus",
-         "image": "https://i.imgur.com/Ee0C8UH.jpg",
-         "action": "video: https://eu1.servers10.com:8081/8166/index.m3u8"
-      },
-      {
-         "id": "channel_42",
-         "channel": "434",
-         "titleHeader": "{col:msx-white}TastemadeAu",
-         "playerLabel": "TastemadeAu",
-         "image": "https://graph.facebook.com/TastemadeEs/picture?width=200&height=200",
-         "action": "video: https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8"
-      },
-      {
-         "id": "channel_43",
-         "channel": "435",
-         "titleHeader": "{col:msx-white}TastemadeGe",
-         "playerLabel": "TastemadeGe",
-         "image": "https://graph.facebook.com/TastemadeEs/picture?width=200&height=200",
-         "action": "video: https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8"
-      },
-      {
-         "id": "channel_44",
-         "channel": "436",
-         "titleHeader": "{col:msx-white}Tastemade",
-         "playerLabel": "Tastemade",
-         "image": "https://graph.facebook.com/TastemadeEs/picture?width=200&height=200",
-         "action": "video: https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8"
-      },
-      {
-         "id": "channel_45",
-         "channel": "437",
-         "titleHeader": "{col:msx-white}TastemadeX",
-         "playerLabel": "TastemadeX",
-         "image": "https://graph.facebook.com/TastemadeEs/picture?width=200&height=200",
-         "action": "video: https://tastemade-xumo.amagi.tv/playlist.m3u8"
-      },
-      {
-         "id": "channel_46",
-         "channel": "438",
-         "titleHeader": "{col:msx-white}Tastemade Travel ????",
-         "playerLabel": "Tastemade Travel ????",
-         "image": "https://graph.facebook.com/TastemadeEs/picture?width=200&height=200",
-         "action": "video: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-tablo/playlist.m3u8"
-      },
-      {
-         "id": "channel_47",
-         "channel": "439",
-         "titleHeader": "{col:msx-white}Tastemade Home ????",
-         "playerLabel": "Tastemade Home ????",
-         "image": "https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200022W6_20240910T003655SQUARE.png",
-         "action": "video: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-lgus/playlist.m3u8"
-      },
-      {
-         "id": "channel_48",
-         "channel": "440",
-         "titleHeader": "{col:msx-white}bon app?tit",
-         "playerLabel": "bon app?tit",
-         "image": "https://i.imgur.com/YhFFxlE.png",
-         "action": "video: https://bonappetit-samsung.amagi.tv/playlist.m3u8"
-      },
-      {
-         "id": "channel_49",
-         "channel": "441",
-         "titleHeader": "{col:msx-white}Cooking Panda",
-         "playerLabel": "Cooking Panda",
-         "image": "https://i.imgur.com/bhY0Zcs.png",
-         "action": "video: https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46"
-      },
-      {
-         "id": "channel_50",
-         "channel": "442",
-         "titleHeader": "{col:msx-white}Gusto TV",
-         "playerLabel": "Gusto TV",
-         "image": "https://i.imgur.com/swUX3hQ.png",
-         "action": "video: https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8"
+          {
+	           "icon": "msx-white-soft:movie",
+	           "title": "19",
+	           "label": "19",
+	           "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://xarxa-1.github.io/Xarxa-1/cat19.m3u"
+	        },
+	        {
+	           "icon": "msx-white-soft:movie",
+	           "title": "32",
+	           "label": "32",
+	           "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://xarxa-1.github.io/Xarxa-1/cat32a.m3u"
+	        },
+	        {         "icon": "msx-white-soft:movie",
+
+	           "title": "33",
+	           "playerLabel": "33",
+	          "action": "content:http://msx.benzac.de/services/m3u.php?type=video&url=https://xarxa-1.github.io/Xarxa-1/cat33.m3u"
+	         },
+	        {         "icon": "msx-white-soft:movie",
+
+	           "title": "Taste",
+	           "playerLabel": "Taste",
+	           "action": "video:https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8"
+	        },
+	        {
+	           "title": "Taste",
+	           "playerLabel": "Taste",
+	           "action": "video:https://rakutenaa-tm-germany-rakuten-ger-8jboz.amagi.tv/playlist/rakutenAA-tm-germany-rakuten-ger/playlist.m3u8"
+	        },
+	        {
+	           "title": "Taste",
+	           "playerLabel": "Taste",
+	           "action": "video:https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8"
+	        },
+	        {
+	           "title": "Taste",
+	           "playerLabel": "Taste",
+	           "action": "video:https://tastemade-xumo.amagi.tv/playlist.m3u8"
+	        },
+	        {
+	           "title": "Taste",
+	           "playerLabel": "Taste",
+	           "action": "video:https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadetravel-tablo/playlist.m3u8"
+	        },
+	        {
+	           "title": "Taste",
+	           "playerLabel": "Taste",
+	           "action": "video:https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8"
       }
    ]
-
 }
