@@ -1,11 +1,7 @@
 #EXTM3U
-
-#EXTINF:-1,STAR SPORTS 1
-http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1,ESPN NEWS
-http://41.205.93.154/ESPNNEWS/index.m3u8
-#EXTINF:-1,ESPNU
-http://41.205.93.154/ESPNU/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-name="BRAVO",BRAVO
+http://41.205.93.154/BRAVO/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",ESPNhttp://41.205.93.154/ESPNU/index.m3u8
 #EXTINF:-1,LIFETIME
 http://41.205.93.154/LIFETIME/index.m3u8
 #EXTINF:-1,LMN
@@ -14,8 +10,7 @@ http://41.205.93.154/LMN/index.m3u8
 http://41.205.93.154/HISTORY/index.m3u8
 #EXTINF:-1,BET
 http://41.205.93.154/BET/index.m3u8
-#EXTINF:-1,BRAVO
-http://41.205.93.154/BRAVO/index.m3u8
+
 #EXTINF:-1,AMC
 http://41.205.93.154/AMC/index.m3u8
 #EXTINF:-1,TMC
@@ -90,3 +85,7 @@ http://41.205.93.154/TF1/index.m3u8
 http://41.205.93.154/TOUTE-LHISTOIRE/index.m3u8
 #EXTINF:-1,MCM
 http://41.205.93.154/MCM/index.m3u8
+#EXTINF:-1,STAR SPORTS 1
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1,ESPN NEWS
+http://41.205.93.154/ESPNNEWS/index.m3u8
